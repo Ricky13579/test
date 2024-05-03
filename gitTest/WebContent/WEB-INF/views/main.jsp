@@ -7,5 +7,5 @@
 </head>
 <body>
 	<h1 style="text-align-center;">Git Test Page</h1>
-</body>
+	<div class="w3-col"></div>
 </html>
